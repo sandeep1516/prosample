@@ -4,4 +4,3 @@
 sh 'top'
 sh 'free -m'
 sh 'df -h'
-sh 'ps aux'
